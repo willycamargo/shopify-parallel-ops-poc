@@ -1,0 +1,20 @@
+{
+  "name": "poc-parallel-job-and-bulk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^9.1.0",
+    "@shopify/admin-api-client": "^1.0.4",
+    "dotenv": "^16.4.5",
+    "install": "^0.13.0",
+    "npm": "^10.9.0"
+  }
+}
